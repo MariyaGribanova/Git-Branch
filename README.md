@@ -1,3 +1,3 @@
-В данном проекте разобрана работа с ветками #GitBash и #GitHub
+В данном проекте разобрана работа с ветками на GitBash и на GitHub
 
-#gitbranch
+#gitbranch #gitbash #github
